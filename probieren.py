@@ -1,9 +1,9 @@
 import time
+import random
 
-text = "Bababoiiiiiiiiiiiii"
+text = "Bababoiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
 
 for abc in text:
-    print(abc, end="")
-    time.sleep(0.4)
-
-    print()
+    print(abc, end="\r", flush=True)
+    time.sleep(random.uniform(0.05, 0.2))
+    
