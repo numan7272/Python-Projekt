@@ -1,4 +1,4 @@
-#Lernbericht – Tag 1
+# Lernbericht – Tag 1
 
 **Datum: 30.08.2025/31.08.2025**
 **Dauer: ca. 7 Stunden**

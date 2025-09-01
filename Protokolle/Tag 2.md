@@ -1,4 +1,4 @@
-#Lernbericht – Tag 2
+# Lernbericht – Tag 2
 
 **Datum: 31.08.2025/01.09.2025**
 **Dauer: ca. 2 Stunden 30 Minuten**
