@@ -1,6 +1,6 @@
 import math
 import time
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 Gegenkathete = float(input('Geben Sie die Länge der Gegenkathete in cm an: '))
 Ankathete  = float(input('Geben Sie die Länge der Ankathete in cm an: '))
