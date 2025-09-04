@@ -6,7 +6,7 @@ class Auto:
         self.handelbar = handelbar
 
     def fahren(self):
-        print("Du fährst das Auto")
+        print(f"Du fährst den {self.model}")
 
     def stoppen(self):
-        print("Du fährst das nicht Auto")
+        print(f"Du stopst den {self.model}")
