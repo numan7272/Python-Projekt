@@ -1,7 +1,7 @@
 # Lernprotokoll – Wirtschaftsinformatik Vorbereitung  
 
 ## Tag 5 – 03.09.2025 & 04.09.2025  
-**Dauer:** ca. 11 Stunden (insgesamt)  
+**Dauer:** ca. 5h 30min  
 **Materialien / Quellen:**  
 - YouTube: Bro Code Python Kurs  
 
