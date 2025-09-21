@@ -2,14 +2,14 @@
 
 Email = "numanyesil@student.de"
 
-student = input("Melde dich mit deinen Studentennamen an: ")
+student = input("Melde dich mit deinen Studentenemail an: ")
 
 #if student in Studenten:
 #   print(f"Hallo {student}! Willkommen bei dem Test.")
 #else:
 #    print(f"{student} wurde nicht gefunden.")
 
-if "@" in Email and "." in Email:
+if "@" in student and "." in student:
     print("gültige Email")
 
 else:
